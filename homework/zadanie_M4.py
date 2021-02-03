@@ -42,3 +42,4 @@ while True:
 
     else:
         print("Błędna wartość, podaj poprawną")
+
